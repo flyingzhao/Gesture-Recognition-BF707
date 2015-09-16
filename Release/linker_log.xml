@@ -1,0 +1,1099 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="file:///G:/Program_Files/Analog Devices/CrossCore Embedded Studio 1.1.1/System/linker_log.xsl"?>
+<DOCUMENT gen_time='Mon Jun 08 11:29:15 2015
+'>
+<MSG id='037ABE68' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_btowc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[btowc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='037EA430' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_clearerr' is defined in more than one library.
+        Defined in:     libio.dlb[clearerr.doj]
+        Redefined in:   libc.dlb[clearerr.doj]
+        Definition from libio.dlb[clearerr.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884018' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fclose' is defined in more than one library.
+        Defined in:     libio.dlb[fclose.doj]
+        Redefined in:   libc.dlb[fclose.doj]
+        Definition from libio.dlb[fclose.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038841E8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_feof' is defined in more than one library.
+        Defined in:     libio.dlb[eof.doj]
+        Redefined in:   libc.dlb[feof.doj]
+        Definition from libio.dlb[eof.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038843B8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_ferror' is defined in more than one library.
+        Defined in:     libio.dlb[ferror.doj]
+        Redefined in:   libc.dlb[ferror.doj]
+        Definition from libio.dlb[ferror.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884588' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fflush' is defined in more than one library.
+        Defined in:     libio.dlb[fflush.doj]
+        Redefined in:   libc.dlb[fflush.doj]
+        Definition from libio.dlb[fflush.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884758' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fgetc' is defined in more than one library.
+        Defined in:     libio.dlb[fgetc.doj]
+        Redefined in:   libc.dlb[fgetc.doj]
+        Definition from libio.dlb[fgetc.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884928' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fgetpos' is defined in more than one library.
+        Defined in:     libio.dlb[fgetpos.doj]
+        Redefined in:   libc.dlb[fgetpos.doj]
+        Definition from libio.dlb[fgetpos.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884AF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fgets' is defined in more than one library.
+        Defined in:     libio.dlb[fgets.doj]
+        Redefined in:   libc.dlb[fgets.doj]
+        Definition from libio.dlb[fgets.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884CC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fgetwc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fgetwc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03884E98' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fgetws' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fgetws.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03885068' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fopen' is defined in more than one library.
+        Defined in:     libio.dlb[fopen.doj]
+        Redefined in:   libc.dlb[fopen.doj]
+        Definition from libio.dlb[fopen.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03885238' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fprintf' is defined in more than one library.
+        Defined in:     libio.dlb[fprintf_32.doj]
+        Redefined in:   libc.dlb[fprintf32.doj]
+        Definition from libio.dlb[fprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03885408' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__fprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[fprintf_64.doj]
+        Redefined in:   libc.dlb[fprintf64.doj]
+        Definition from libio.dlb[fprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03885728' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fputc' is defined in more than one library.
+        Defined in:     libio.dlb[fputc.doj]
+        Redefined in:   libc.dlb[fputc.doj]
+        Definition from libio.dlb[fputc.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897008' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fputs' is defined in more than one library.
+        Defined in:     libio.dlb[fputs.doj]
+        Redefined in:   libc.dlb[fputs.doj]
+        Definition from libio.dlb[fputs.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038971D8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fputwc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fputwc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038974C0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fputws' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fputws.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03898000' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fread' is defined in more than one library.
+        Defined in:     libio.dlb[fread.doj]
+        Redefined in:   libc.dlb[fread.doj]
+        Definition from libio.dlb[fread.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897B50' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_freopen' is defined in more than one library.
+        Defined in:     libio.dlb[freopen.doj]
+        Redefined in:   libc.dlb[freopen.doj]
+        Definition from libio.dlb[freopen.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038975B0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fscanf' is defined in more than one library.
+        Defined in:     libio.dlb[fscanf_32.doj]
+        Redefined in:   libc.dlb[fscanf32.doj]
+        Definition from libio.dlb[fscanf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038973D0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__fscanf64' is defined in more than one library.
+        Defined in:     libio.dlb[fscanf_64.doj]
+        Redefined in:   libc.dlb[fscanf64.doj]
+        Definition from libio.dlb[fscanf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897A60' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fseek' is defined in more than one library.
+        Defined in:     libio.dlb[fseek.doj]
+        Redefined in:   libc.dlb[fseek.doj]
+        Definition from libio.dlb[fseek.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897D30' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fsetpos' is defined in more than one library.
+        Defined in:     libio.dlb[fsetpos.doj]
+        Redefined in:   libc.dlb[fsetpos.doj]
+        Definition from libio.dlb[fsetpos.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038976A0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_ftell' is defined in more than one library.
+        Defined in:     libio.dlb[ftell.doj]
+        Redefined in:   libc.dlb[ftell.doj]
+        Definition from libio.dlb[ftell.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897E20' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fwide' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fwide.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897790' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fwprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fwprintf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038980F0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__fwprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fwprintf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897F10' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fwrite' is defined in more than one library.
+        Defined in:     libio.dlb[fwrite.doj]
+        Redefined in:   libc.dlb[fwrite.doj]
+        Definition from libio.dlb[fwrite.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038981E0' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_fwscanf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fwscanf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897880' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__fwscanf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[fwscanf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897970' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_getc' is defined in more than one library.
+        Defined in:     libio.dlb[getc.doj]
+        Redefined in:   libc.dlb[getc.doj]
+        Definition from libio.dlb[getc.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='03897C40' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_getchar' is defined in more than one library.
+        Defined in:     libio.dlb[getchar.doj]
+        Redefined in:   libc.dlb[getchar.doj]
+        Definition from libio.dlb[getchar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C378' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_gets' is defined in more than one library.
+        Defined in:     libio.dlb[gets.doj]
+        Redefined in:   libc.dlb[gets.doj]
+        Definition from libio.dlb[gets.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C828' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_getwc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[getwc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D098' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_getwchar' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[getwchar.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D188' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_mbrlen' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[mbrlen.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BCE8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_mbrtowc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[mbrtowc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BDD8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_mbsinit' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[mbsinit.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CA08' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_mbsrtowcs' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[mbsrtowc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C468' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_printf' is defined in more than one library.
+        Defined in:     libio.dlb[printf_32.doj]
+        Redefined in:   libc.dlb[printf32.doj]
+        Definition from libio.dlb[printf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C738' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__printf64' is defined in more than one library.
+        Defined in:     libio.dlb[printf_64.doj]
+        Redefined in:   libc.dlb[printf64.doj]
+        Definition from libio.dlb[printf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C918' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_putc' is defined in more than one library.
+        Defined in:     libio.dlb[putc.doj]
+        Redefined in:   libc.dlb[putc.doj]
+        Definition from libio.dlb[putc.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D278' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_putchar' is defined in more than one library.
+        Defined in:     libio.dlb[putchar.doj]
+        Redefined in:   libc.dlb[putchar.doj]
+        Definition from libio.dlb[putchar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C558' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_puts' is defined in more than one library.
+        Defined in:     libio.dlb[puts.doj]
+        Redefined in:   libc.dlb[puts.doj]
+        Definition from libio.dlb[puts.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CBE8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_putwc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[putwc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BA18' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_putwchar' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[putwchar.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CFA8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_remove' is defined in more than one library.
+        Defined in:     libio.dlb[remove.doj]
+        Redefined in:   libc.dlb[remove.doj]
+        Definition from libio.dlb[remove.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C648' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_rename' is defined in more than one library.
+        Defined in:     libio.dlb[rename.doj]
+        Redefined in:   libc.dlb[rename.doj]
+        Definition from libio.dlb[rename.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CDC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_rewind' is defined in more than one library.
+        Defined in:     libio.dlb[rewind.doj]
+        Redefined in:   libc.dlb[rewind.doj]
+        Definition from libio.dlb[rewind.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D548' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_scanf' is defined in more than one library.
+        Defined in:     libio.dlb[scanf_32.doj]
+        Redefined in:   libc.dlb[scanf32.doj]
+        Definition from libio.dlb[scanf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CAF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__scanf64' is defined in more than one library.
+        Defined in:     libio.dlb[scanf_64.doj]
+        Redefined in:   libc.dlb[scanf64.doj]
+        Definition from libio.dlb[scanf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D638' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_setbuf' is defined in more than one library.
+        Defined in:     libio.dlb[setbuf.doj]
+        Redefined in:   libc.dlb[setbuf.doj]
+        Definition from libio.dlb[setbuf.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BFB8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_setvbuf' is defined in more than one library.
+        Defined in:     libio.dlb[setvbuf.doj]
+        Redefined in:   libc.dlb[setvbuf.doj]
+        Definition from libio.dlb[setvbuf.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CCD8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_snprintf' is defined in more than one library.
+        Defined in:     libio.dlb[snprintf_32.doj]
+        Redefined in:   libc.dlb[snprintf32.doj]
+        Definition from libio.dlb[snprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389CEB8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__snprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[snprintf_64.doj]
+        Redefined in:   libc.dlb[snprintf64.doj]
+        Definition from libio.dlb[snprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D458' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_sprintf' is defined in more than one library.
+        Defined in:     libio.dlb[sprintf_32.doj]
+        Redefined in:   libc.dlb[sprintf32.doj]
+        Definition from libio.dlb[sprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D368' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__sprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[sprintf_64.doj]
+        Redefined in:   libc.dlb[sprintf64.doj]
+        Definition from libio.dlb[sprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389B928' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_sscanf' is defined in more than one library.
+        Defined in:     libio.dlb[sscanf_32.doj]
+        Redefined in:   libc.dlb[sscanf32.doj]
+        Definition from libio.dlb[sscanf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BB08' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__sscanf64' is defined in more than one library.
+        Defined in:     libio.dlb[sscanf_64.doj]
+        Redefined in:   libc.dlb[sscanf64.doj]
+        Definition from libio.dlb[sscanf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BBF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_swprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[swprintf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389BEC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__swprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[swprintf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C0A8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_swscanf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[swscanf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C198' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__swscanf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[swscanf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389C288' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_ungetc' is defined in more than one library.
+        Defined in:     libio.dlb[ungetc.doj]
+        Redefined in:   libc.dlb[ungetc.doj]
+        Definition from libio.dlb[ungetc.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='0389D728' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_ungetwc' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[ungetwc.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1ED8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcstod' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[v35_wstod.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2CE8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vfprintf' is defined in more than one library.
+        Defined in:     libio.dlb[vfprintf_32.doj]
+        Redefined in:   libc.dlb[vfprintf32.doj]
+        Definition from libio.dlb[vfprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1FC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vfprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[vfprintf_64.doj]
+        Redefined in:   libc.dlb[vfprintf64.doj]
+        Definition from libio.dlb[vfprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B3288' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vfwprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vfwprint32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2A18' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vfwprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vfwprint64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2B08' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vprintf' is defined in more than one library.
+        Defined in:     libio.dlb[vprintf_32.doj]
+        Redefined in:   libc.dlb[vprintf32.doj]
+        Definition from libio.dlb[vprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2298' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[vprintf_64.doj]
+        Redefined in:   libc.dlb[vprintf64.doj]
+        Definition from libio.dlb[vprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1668' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vsnprintf' is defined in more than one library.
+        Defined in:     libio.dlb[vsnprintf_32.doj]
+        Redefined in:   libc.dlb[vsnprint32.doj]
+        Definition from libio.dlb[vsnprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1758' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vsnprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[vsnprintf_64.doj]
+        Redefined in:   libc.dlb[vsnprint64.doj]
+        Definition from libio.dlb[vsnprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1A28' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vsprintf' is defined in more than one library.
+        Defined in:     libio.dlb[vsprintf_32.doj]
+        Redefined in:   libc.dlb[vsprintf32.doj]
+        Definition from libio.dlb[vsprintf_32.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2388' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vsprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[vsprintf_64.doj]
+        Redefined in:   libc.dlb[vsprintf64.doj]
+        Definition from libio.dlb[vsprintf_64.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B3198' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vswprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vswprint32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1938' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vswprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vswprint64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2FB8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_vwprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vwprintf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2658' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__vwprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[vwprintf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2838' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcrtomb' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcrtomb.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B20B8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcscat' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcscat.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B30A8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcscmp' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcscmp.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1848' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcscoll' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcscoll.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2478' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcscpy' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcscpy.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1578' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcscspn' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcscspn.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B21A8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcslen' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcslen.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1B18' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcsncat' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcsncat.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2EC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcsncpy' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcsncpy.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2568' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcsrtombs' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcsrtomb.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2748' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcstol' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcstol.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2928' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcstoul' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcstoul.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1DE8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wcsxfrm' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wcsxfrm.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2DD8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wctob' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wctob.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1C08' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wmemcmp' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wmemcmp.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B1CF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wmemcpy' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wmemcpy.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B2BF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wmemmove' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wmemmove.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038B3378' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wmemset' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wmemset.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7288' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wprintf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wprintf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7468' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__wprintf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wprintf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7378' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_wscanf' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wscanf32.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7AF8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__wscanf64' is defined in more than one library.
+        Defined in:     libio.dlb[widechar.doj]
+        Redefined in:   libc.dlb[wscanf64.doj]
+        Definition from libio.dlb[widechar.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7558' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__Files' is defined in more than one library.
+        Defined in:     libio.dlb[xfiles.doj]
+        Redefined in:   libc.dlb[xfiles.doj]
+        Definition from libio.dlb[xfiles.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C6748' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__Stderr' is defined in more than one library.
+        Defined in:     libio.dlb[xfiles.doj]
+        Redefined in:   libc.dlb[xfiles.doj]
+        Definition from libio.dlb[xfiles.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7FA8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__Stdin' is defined in more than one library.
+        Defined in:     libio.dlb[xfiles.doj]
+        Redefined in:   libc.dlb[xfiles.doj]
+        Definition from libio.dlb[xfiles.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7DC8' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '__Stdout' is defined in more than one library.
+        Defined in:     libio.dlb[xfiles.doj]
+        Redefined in:   libc.dlb[xfiles.doj]
+        Definition from libio.dlb[xfiles.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C7648' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_raise_interrupt' is defined in more than one library.
+        Defined in:     libsmall.dlb[raiseint_s.doj]
+        Redefined in:   libevent.dlb[raiseint.doj]
+        Definition from libsmall.dlb[raiseint_s.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C6298' mid='li2050' type='Warning' suppressed=''>
+<TEXT><![CDATA[Symbol '_register_handler' is defined in more than one library.
+        Defined in:     libsmall.dlb[reghdlr_s.doj]
+        Redefined in:   libevent.dlb[reghdlr.doj]
+        Definition from libsmall.dlb[reghdlr_s.doj] will be used.]]></TEXT>
+</MSG>
+<MSG id='038C6478' mid='li3201' type='Informational' suppressed=''>
+<TEXT><![CDATA[Successfully eliminated 184223 bytes in processor 'P0'
+]]></TEXT>
+<EXTENDED_INFO><![CDATA[Eliminated object (___eh_gdt, ___eh_gdt+0x4) of size 4 bytes from 'app_startup.doj(.gdt)'
+Eliminated object (_StreamInfo, ._StreamInfo.end) of size 24 bytes from '.\system\services\dma\adi_dma.doj(constdata)'
+Eliminated object (_adi_dma_GetCurrentYCount, ._adi_dma_GetCurrentYCount.end) of size 14 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_dma_GetCurrentXCount, ._adi_dma_GetCurrentXCount.end) of size 14 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_dma_GetCurrentAddr, ._adi_dma_GetCurrentAddr.end) of size 14 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_dma_GetCurrentDesc, ._adi_dma_GetCurrentDesc.end) of size 14 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_dma_UpdateCallback, ._adi_dma_UpdateCallback.end) of size 30 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_IsCopyInProgress, ._adi_mdma_IsCopyInProgress.end) of size 16 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_DisableXfer, ._DisableXfer.end) of size 52 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaListXferLoadDmaRegs, ._MDmaListXferLoadDmaRegs.end) of size 130 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MoveStandbyToActive, ._MoveStandbyToActive.end) of size 40 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaEnableArrayXfer, ._MDmaEnableArrayXfer.end) of size 74 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_DisableSrcListInt, ._DisableSrcListInt.end) of size 44 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_AddToChain, ._AddToChain.end) of size 26 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_IsLastInList, ._IsLastInList.end) of size 34 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_PrepareDestListDesc, ._PrepareDestListDesc.end) of size 80 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_PrepareSrcListDesc, ._PrepareSrcListDesc.end) of size 114 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaLoadRegsOneShotCircXfer, ._MDmaLoadRegsOneShotCircXfer.end) of size 40 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_GetMaxPSize, ._GetMaxPSize.end) of size 16 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_ResetMDmaChannel, ._ResetMDmaChannel.end) of size 28 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x95e,0x960) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0xb7e,0xb80) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0xbaa,0xbac) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_ResetMDmaStream, ._ResetMDmaStream.end) of size 68 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_GetMaxMSizePSize, ._GetMaxMSizePSize.end) of size 86 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaPrepareOneShot, ._MDmaPrepareOneShot.end) of size 140 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0xd7e,0xd80) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaEnableOneShotCircXfer, ._MDmaEnableOneShotCircXfer.end) of size 60 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaCrcModeOneShotXfer, ._MDmaCrcModeOneShotXfer.end) of size 150 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_InitForListMode, ._InitForListMode.end) of size 40 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaEnableListDescXfer, ._MDmaEnableListDescXfer.end) of size 60 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaPrepareArray1D, ._MDmaPrepareArray1D.end) of size 174 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaPrepareArray2D, ._MDmaPrepareArray2D.end) of size 180 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaOneShotXferIntHandler, ._MDmaOneShotXferIntHandler.end) of size 56 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaListDescXferIntHandler, ._MDmaListDescXferIntHandler.end) of size 212 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaArrayXferIntHandler, ._MDmaArrayXferIntHandler.end) of size 50 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x1156,0x1158) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_MDmaUpdateXferStatus, ._MDmaUpdateXferStatus.end) of size 188 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Disable, ._adi_mdma_Disable.end) of size 16 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_CopyCircular1D, ._adi_mdma_CopyCircular1D.end) of size 178 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x12d6,0x12d8) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Copy1D, ._adi_mdma_Copy1D.end) of size 254 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x13d6,0x13d8) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Copy2D, ._adi_mdma_Copy2D.end) of size 180 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_CopyQueueList, ._adi_mdma_CopyQueueList.end) of size 224 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Copy1DArray, ._adi_mdma_Copy1DArray.end) of size 110 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x15da,0x15dc) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Copy2DArray, ._adi_mdma_Copy2DArray.end) of size 110 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x164a,0x164c) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Open, ._adi_mdma_Open.end) of size 320 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x18e6,0x18e8) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x193a,0x193c) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (0x19de,0x19e0) of size 2 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (_adi_mdma_Close, ._adi_mdma_Close.end) of size 194 bytes from '.\system\services\dma\adi_dma.doj(program)'
+Eliminated object (.SWITCH.0, .SWITCH.0.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(constdata)'
+Eliminated object (_adi_uart_IsTxComplete, ._adi_uart_IsTxComplete.end) of size 28 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetRxFifoWM, ._adi_uart_SetRxFifoWM.end) of size 64 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableRxHWFlowCntl, ._adi_uart_EnableRxHWFlowCntl.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableTxHWFlowCntl, ._adi_uart_EnableTxHWFlowCntl.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_PauseTx, ._adi_uart_PauseTx.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_PauseRx, ._adi_uart_PauseRx.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetTxPolarity, ._adi_uart_SetTxPolarity.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetRxPolarity, ._adi_uart_SetRxPolarity.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetFCPolarity, ._adi_uart_SetFCPolarity.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ForceTxBreak, ._adi_uart_ForceTxBreak.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetParity, ._adi_uart_SetParity.end) of size 100 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableLoopBack, ._adi_uart_EnableLoopBack.end) of size 36 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_MDBDiscardRxData, ._adi_uart_MDBDiscardRxData.end) of size 14 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_MDBTxAddress, ._adi_uart_MDBTxAddress.end) of size 10 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableLineStatusEvents, ._adi_uart_EnableLineStatusEvents.end) of size 30 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_IsRxBufferAvailable, ._adi_uart_IsRxBufferAvailable.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_IsTxBufferAvailable, ._adi_uart_IsTxBufferAvailable.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_GetBaudRate, ._adi_uart_GetBaudRate.end) of size 12 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ConfigAutobaud, ._adi_uart_ConfigAutobaud.end) of size 94 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_Close, ._adi_uart_Close.end) of size 168 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableAutobaud, ._adi_uart_EnableAutobaud.end) of size 258 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (0x646,0x648) of size 2 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SubmitTxBuffer, ._adi_uart_SubmitTxBuffer.end) of size 30 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SubmitRxBuffer, ._adi_uart_SubmitRxBuffer.end) of size 30 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (0x6fe,0x700) of size 2 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_GetHWErrorStatus, ._adi_uart_GetHWErrorStatus.end) of size 40 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableDMAMode, ._adi_uart_EnableDMAMode.end) of size 320 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_RegisterCallback, ._adi_uart_RegisterCallback.end) of size 64 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ConfigRxTriggerIn, ._adi_uart_ConfigRxTriggerIn.end) of size 28 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ConfigTxTriggerIn, ._adi_uart_ConfigTxTriggerIn.end) of size 28 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ConfigRxTriggerOut, ._adi_uart_ConfigRxTriggerOut.end) of size 28 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_ConfigTxTriggerOut, ._adi_uart_ConfigTxTriggerOut.end) of size 28 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_SetDMATransferSize, ._SetDMATransferSize.end) of size 164 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetRxDmaTransferSize, ._adi_uart_SetRxDmaTransferSize.end) of size 18 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_SetTxDmaTransferSize, ._adi_uart_SetTxDmaTransferSize.end) of size 18 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_GetRxBuffer, ._adi_uart_GetRxBuffer.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_GetTxBuffer, ._adi_uart_GetTxBuffer.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_UARTTxDMAHandler, ._UARTTxDMAHandler.end) of size 40 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_UARTRxDMAHandler, ._UARTRxDMAHandler.end) of size 38 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (0xeea,0xeec) of size 2 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableTx, ._adi_uart_EnableTx.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_EnableRx, ._adi_uart_EnableRx.end) of size 20 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (0xfb6,0xfb8) of size 2 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (0x100e,0x1010) of size 2 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_adi_uart_Read, ._adi_uart_Read.end) of size 80 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (_TimerCallback, ._TimerCallback.end) of size 188 bytes from '.\system\drivers\uart\adi_uart.doj(program)'
+Eliminated object (.epcdata, .epcdata.end) of size 12 bytes from '.\system\drivers\twi\adi_twi.doj(data1)'
+Eliminated object (_adi_twi_ClearMasterStatus, ._adi_twi_ClearMasterStatus.end) of size 10 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_GetMasterStatus, ._adi_twi_GetMasterStatus.end) of size 14 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_GetInterruptStatus, ._adi_twi_GetInterruptStatus.end) of size 16 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetHardwareAddress, ._adi_twi_SetHardwareAddress.end) of size 44 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_IsTxBufferAvailable, ._adi_twi_IsTxBufferAvailable.end) of size 74 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_IsRxBufferAvailable, ._adi_twi_IsRxBufferAvailable.end) of size 72 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SubmitRxBuffer, ._adi_twi_SubmitRxBuffer.end) of size 148 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SubmitTxBuffer, ._adi_twi_SubmitTxBuffer.end) of size 142 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_RegisterCallback, ._adi_twi_RegisterCallback.end) of size 18 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_BufferReceive, ._BufferReceive.end) of size 250 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_BufferTransmit, ._BufferTransmit.end) of size 268 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_Initialize, ._Initialize.end) of size 230 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x506,0x508) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_FlushDevice, ._FlushDevice.end) of size 50 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x53a,0x53c) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_StopDevice, ._StopDevice.end) of size 88 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_StartDevice, ._StartDevice.end) of size 376 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_MasterService, ._MasterService.end) of size 526 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x91a,0x91c) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_MasterProcessed, ._MasterProcessed.end) of size 168 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_SlaveTxProcessed, ._SlaveTxProcessed.end) of size 160 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_SlaveRxProcessed, ._SlaveRxProcessed.end) of size 180 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_SlaveService, ._SlaveService.end) of size 214 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0xbee,0xbf0) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_InitiateProcessing, ._InitiateProcessing.end) of size 142 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0xc7e,0xc80) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_processInterrupt, ._processInterrupt.end) of size 124 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_TWIHandler, ._TWIHandler.end) of size 16 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_Open, ._adi_twi_Open.end) of size 140 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_Close, ._adi_twi_Close.end) of size 72 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_GetRxBuffer, ._adi_twi_GetRxBuffer.end) of size 152 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_GetTxBuffer, ._adi_twi_GetTxBuffer.end) of size 134 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0xefe,0xf00) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_Enable, ._adi_twi_Enable.end) of size 14 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0xf0e,0xf10) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_Write, ._adi_twi_Write.end) of size 132 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_Read, ._adi_twi_Read.end) of size 132 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetPrescale, ._adi_twi_SetPrescale.end) of size 78 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x1066,0x1068) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetBitRate, ._adi_twi_SetBitRate.end) of size 78 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x10b6,0x10b8) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetDutyCycle, ._adi_twi_SetDutyCycle.end) of size 78 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (0x1106,0x1108) of size 2 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_EnableClockOverride, ._adi_twi_EnableClockOverride.end) of size 52 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_EnableDataOverride, ._adi_twi_EnableDataOverride.end) of size 52 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_EnableGeneralCall, ._adi_twi_EnableGeneralCall.end) of size 52 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetReceiveDataWidth, ._adi_twi_SetReceiveDataWidth.end) of size 76 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_adi_twi_SetTransmitDataWidth, ._adi_twi_SetTransmitDataWidth.end) of size 76 bytes from '.\system\drivers\twi\adi_twi.doj(program)'
+Eliminated object (_AccessFifo, ._AccessFifo.end) of size 45 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (0x2d,0x30) of size 3 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (_aSpiStatusEventFields, ._aSpiStatusEventFields.end) of size 20 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.0, .SWITCH.0.end) of size 28 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.1, .SWITCH.1.end) of size 28 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.2, .SWITCH.2.end) of size 32 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.3, .SWITCH.3.end) of size 32 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.4, .SWITCH.4.end) of size 32 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.5, .SWITCH.5.end) of size 28 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.6, .SWITCH.6.end) of size 24 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.7, .SWITCH.7.end) of size 44 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (.SWITCH.8, .SWITCH.8.end) of size 16 bytes from '.\system\drivers\spi\adi_spi.doj(constdata)'
+Eliminated object (_aSpiDevice, ._aSpiDevice.end) of size 84 bytes from '.\system\drivers\spi\adi_spi.doj(data1)'
+Eliminated object (_SpiRxDma_Callback, ._SpiRxDma_Callback.end) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_SpiTxDma_Callback, ._SpiTxDma_Callback.end) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_LoadRxBuffer, ._LoadRxBuffer.end) of size 176 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_LoadTxFifo, ._LoadTxFifo.end) of size 176 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_GetHWErrorStatus, ._adi_spi_GetHWErrorStatus.end) of size 22 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetRxWatermark, ._adi_spi_SetRxWatermark.end) of size 304 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetTxWatermark, ._adi_spi_SetTxWatermark.end) of size 304 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetSlaveSelectDelay, ._adi_spi_SetSlaveSelectDelay.end) of size 52 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetInterruptMode, ._adi_spi_SetInterruptMode.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetRxWordCount, ._adi_spi_SetRxWordCount.end) of size 68 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetTxWordCount, ._adi_spi_SetTxWordCount.end) of size 68 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetFlowControl, ._adi_spi_SetFlowControl.end) of size 138 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetHwSlaveSelect, ._adi_spi_SetHwSlaveSelect.end) of size 48 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetSlaveSelect, ._adi_spi_SetSlaveSelect.end) of size 28 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetReceiveOverflow, ._adi_spi_SetReceiveOverflow.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetTransmitUnderflow, ._adi_spi_SetTransmitUnderflow.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetLsbFirst, ._adi_spi_SetLsbFirst.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetMaster, ._adi_spi_SetMaster.end) of size 30 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetTransceiverMode, ._adi_spi_SetTransceiverMode.end) of size 140 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetClockPhase, ._adi_spi_SetClockPhase.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetClockPolarity, ._adi_spi_SetClockPolarity.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetClock, ._adi_spi_SetClock.end) of size 10 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetTransferInitiateMode, ._adi_spi_SetTransferInitiateMode.end) of size 92 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_StartOnMosi, ._adi_spi_StartOnMosi.end) of size 36 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SlaveSelect, ._adi_spi_SlaveSelect.end) of size 108 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ManualSlaveSelect, ._adi_spi_ManualSlaveSelect.end) of size 16 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_IsBufferAvailable, ._adi_spi_IsBufferAvailable.end) of size 62 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_RegisterCallback, ._adi_spi_RegisterCallback.end) of size 24 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_Open, ._adi_spi_Open.end) of size 462 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_Close, ._adi_spi_Close.end) of size 76 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_EnableDmaMode, ._adi_spi_EnableDmaMode.end) of size 742 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0xd4a,0xd4c) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetDmaTransferSize, ._adi_spi_SetDmaTransferSize.end) of size 280 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SubmitBuffer, ._adi_spi_SubmitBuffer.end) of size 226 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0xf46,0xf48) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ReadWrite, ._adi_spi_ReadWrite.end) of size 172 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_GetBuffer, ._adi_spi_GetBuffer.end) of size 154 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ConfigTxTriggerIn, ._adi_spi_ConfigTxTriggerIn.end) of size 60 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ConfigTxTriggerOut, ._adi_spi_ConfigTxTriggerOut.end) of size 64 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ConfigRxTriggerIn, ._adi_spi_ConfigRxTriggerIn.end) of size 64 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_ConfigRxTriggerOut, ._adi_spi_ConfigRxTriggerOut.end) of size 64 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0x118a,0x118c) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SetWordSize, ._adi_spi_SetWordSize.end) of size 284 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_CloseInt, ._adi_spi_CloseInt.end) of size 166 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0x134e,0x1350) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_CloseDma, ._adi_spi_CloseDma.end) of size 174 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0x13fe,0x1400) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_StartInterruptTransceiver, ._StartInterruptTransceiver.end) of size 386 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_UpdateQueue, ._UpdateQueue.end) of size 122 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_PostTransceiverCompleted, ._PostTransceiverCompleted.end) of size 122 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SubmitIntBuffer, ._adi_spi_SubmitIntBuffer.end) of size 38 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_adi_spi_SubmitDmaBuffer, ._adi_spi_SubmitDmaBuffer.end) of size 830 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (0x19da,0x19dc) of size 2 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_Spi_Error_Interrupt_Handler, ._Spi_Error_Interrupt_Handler.end) of size 208 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_Spi_TxData_Interrupt_Handler, ._Spi_TxData_Interrupt_Handler.end) of size 116 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_Spi_RxData_Interrupt_Handler, ._Spi_RxData_Interrupt_Handler.end) of size 170 bytes from '.\system\drivers\spi\adi_spi.doj(program)'
+Eliminated object (_aPpiStatusEventFields, ._aPpiStatusEventFields.end) of size 40 bytes from '.\system\drivers\ppi\adi_ppi.doj(constdata)'
+Eliminated object (.SWITCH.0, .SWITCH.0.end) of size 24 bytes from '.\system\drivers\ppi\adi_ppi.doj(constdata)'
+Eliminated object (_aEppiDevice, ._aEppiDevice.end) of size 20 bytes from '.\system\drivers\ppi\adi_ppi.doj(data1)'
+Eliminated object (_Eppi_Error_Interrupt_Handler, ._Eppi_Error_Interrupt_Handler.end) of size 72 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetInterruptMask, ._adi_eppi_SetInterruptMask.end) of size 38 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_GetControlReg, ._adi_eppi_GetControlReg.end) of size 22 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetControlReg, ._adi_eppi_SetControlReg.end) of size 18 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_GetHWErrorStatus, ._adi_eppi_GetHWErrorStatus.end) of size 22 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetClipping, ._adi_eppi_SetClipping.end) of size 16 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFrameSync2, ._adi_eppi_SetFrameSync2.end) of size 26 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFrameSync1, ._adi_eppi_SetFrameSync1.end) of size 26 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetClockDivide, ._adi_eppi_SetClockDivide.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSamplesPerLine, ._adi_eppi_SetSamplesPerLine.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetLinesPerFrame, ._adi_eppi_SetLinesPerFrame.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetVerticalCount, ._adi_eppi_SetVerticalCount.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetVerticalDelay, ._adi_eppi_SetVerticalDelay.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetHorizontalCount, ._adi_eppi_SetHorizontalCount.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetHorizontalDelay, ._adi_eppi_SetHorizontalDelay.end) of size 10 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDataMirror, ._adi_eppi_SetDataMirror.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFSFinish, ._adi_eppi_SetFSFinish.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetClkGating, ._adi_eppi_SetClkGating.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetMuxSelect, ._adi_eppi_SetMuxSelect.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDMAFinish, ._adi_eppi_SetDMAFinish.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetRGBFormat, ._adi_eppi_SetRGBFormat.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDMAConfig, ._adi_eppi_SetDMAConfig.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSplitWord, ._adi_eppi_SetSplitWord.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSubSplit, ._adi_eppi_SetSubSplit.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSplit, ._adi_eppi_SetSplit.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSignExtension, ._adi_eppi_SetSignExtension.end) of size 34 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSwap, ._adi_eppi_SetSwap.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetPack, ._adi_eppi_SetPack.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetInternalFS, ._adi_eppi_SetInternalFS.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetInternalClk, ._adi_eppi_SetInternalClk.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetBlankingGeneration, ._adi_eppi_SetBlankingGeneration.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetITUType, ._adi_eppi_SetITUType.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFieldSelect, ._adi_eppi_SetFieldSelect.end) of size 36 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDirection, ._adi_eppi_SetDirection.end) of size 48 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDataLength, ._adi_eppi_SetDataLength.end) of size 26 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFSPolarity, ._adi_eppi_SetFSPolarity.end) of size 26 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetClkPolarity, ._adi_eppi_SetClkPolarity.end) of size 22 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetFSMode, ._adi_eppi_SetFSMode.end) of size 20 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetSkipMode, ._adi_eppi_SetSkipMode.end) of size 26 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetITUMode, ._adi_eppi_SetITUMode.end) of size 20 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_RegisterCallback, ._adi_eppi_RegisterCallback.end) of size 28 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_IsBufferAvailable, ._adi_eppi_IsBufferAvailable.end) of size 78 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_Open, ._adi_eppi_Open.end) of size 446 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_Close, ._adi_eppi_Close.end) of size 184 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SubmitFrame, ._adi_eppi_SubmitFrame.end) of size 132 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SubmitBuffer, ._adi_eppi_SubmitBuffer.end) of size 132 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SubmitFrameUpdate, ._adi_eppi_SubmitFrameUpdate.end) of size 152 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_GetBuffer, ._adi_eppi_GetBuffer.end) of size 180 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_ConfigTriggerIn, ._adi_eppi_ConfigTriggerIn.end) of size 30 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_ConfigTriggerOut, ._adi_eppi_ConfigTriggerOut.end) of size 30 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_Enable, ._adi_eppi_Enable.end) of size 148 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_StreamingEnable, ._adi_eppi_StreamingEnable.end) of size 62 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_RepetiveBufferEnable, ._adi_eppi_RepetiveBufferEnable.end) of size 64 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (0xafa,0xafc) of size 2 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SetDmaTransferSize, ._adi_eppi_SetDmaTransferSize.end) of size 232 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SubmitTxDMAData, ._adi_eppi_SubmitTxDMAData.end) of size 116 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_adi_eppi_SubmitRxDMAData, ._adi_eppi_SubmitRxDMAData.end) of size 116 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_PostBufferCompleted, ._PostBufferCompleted.end) of size 150 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_EppiDmaCallback, ._EppiDmaCallback.end) of size 58 bytes from '.\system\drivers\ppi\adi_ppi.doj(program)'
+Eliminated object (_phSPI, _phSPI+0x4) of size 4 bytes from '.\src\Lcd_Driver.doj(bsz)'
+Eliminated object (_SpiMemory, ._SpiMemory.end) of size 404 bytes from '.\src\Lcd_Driver.doj(bsz)'
+Eliminated object (_write_SPI, ._write_SPI.end) of size 126 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (0x7e,0x80) of size 2 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_SPI1_Init, ._SPI1_Init.end) of size 144 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_WriteIndex, ._Lcd_WriteIndex.end) of size 92 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_WriteData, ._Lcd_WriteData.end) of size 92 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_WriteData_16Bit, ._Lcd_WriteData_16Bit.end) of size 28 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_Init, ._Lcd_Init.end) of size 576 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_SetXY, ._Lcd_SetXY.end) of size 52 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_SetRegion, ._Lcd_SetRegion.end) of size 66 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (0x49a,0x49c) of size 2 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_WriteBuffer, ._Lcd_WriteBuffer.end) of size 140 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Gui_DrawPoint, ._Gui_DrawPoint.end) of size 30 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (0x546,0x548) of size 2 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_Lcd_Clear, ._Lcd_Clear.end) of size 62 bytes from '.\src\Lcd_Driver.doj(program)'
+Eliminated object (_QDTFT_Test_Demo, ._QDTFT_Test_Demo.end) of size 38 bytes from '.\src\QDTFT_demo.doj(program)'
+Eliminated object (0x27,0x28) of size 1 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x4d,0x50) of size 3 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0xb9,0xbc) of size 3 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0xe1,0xe4) of size 3 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x107,0x108) of size 1 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x13b,0x13c) of size 1 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x196,0x198) of size 2 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x1c1,0x1c4) of size 3 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x1e2,0x1e4) of size 2 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (.sCouldn.11, .sCouldn.11.end) of size 37 bytes from '.\src\char_echo.doj(constdata)'
+Eliminated object (0x1b6,0x1b8) of size 2 bytes from '.\src\char_echo.doj(program)'
+Eliminated object (_closecom, ._closecom.end) of size 62 bytes from '.\src\char_echo.doj(program)'
+Eliminated object (.epcrodata, .epcrodata.end) of size 8 bytes from '.\src\delay.doj(constdata)'
+Eliminated object (_delay_ms, ._delay_ms.end) of size 86 bytes from '.\src\delay.doj(program)'
+Eliminated object (_imR, ._imR.end) of size 76800 bytes from '.\src\handrecog.doj(bsz)'
+Eliminated object (_imG, ._imG.end) of size 76800 bytes from '.\src\handrecog.doj(bsz)'
+Eliminated object (0x15,0x18) of size 3 bytes from '.\src\handrecog.doj(data1)'
+Eliminated object (_G, ._G.end) of size 60 bytes from '.\src\handrecog.doj(data1)'
+Eliminated object (_yuv422torgb565, ._yuv422torgb565.end) of size 310 bytes from '.\src\handrecog.doj(program)'
+Eliminated object (_getgrayscale, ._getgrayscale.end) of size 104 bytes from '.\src\handrecog.doj(program)'
+Eliminated object (0x19e,0x1a0) of size 2 bytes from '.\src\handrecog.doj(program)'
+Eliminated object (_tmp, _tmp+0x4) of size 4 bytes from '.\src\ov9653.doj(bsz)'
+Eliminated object (0xc,0x10) of size 4 bytes from '.\src\ov9653.doj(program)'
+Eliminated object (0xc2,0xc8) of size 6 bytes from '.\src\ov9653.doj(program)'
+Eliminated object (0x126,0x128) of size 2 bytes from '.\src\ov9653.doj(program)'
+Eliminated object (_TWI_MasterMode_Read, ._TWI_MasterMode_Read.end) of size 172 bytes from '.\src\ov9653.doj(program)'
+Eliminated object (_imerode, ._imerode.end) of size 294 bytes from '.\src\sub_functions.doj(program)'
+Eliminated object (_imdilate, ._imdilate.end) of size 254 bytes from '.\src\sub_functions.doj(program)'
+Eliminated object (_isamplify, ._isamplify.end) of size 182 bytes from '.\src\sub_functions.doj(program)'
+Eliminated object (_gesture_rec, ._gesture_rec.end) of size 356 bytes from '.\src\sub_functions.doj(program)'
+Eliminated object (_adi_osal_SemGetObjSize, ._adi_osal_SemGetObjSize.end) of size 4 bytes from 'libosal_noos.dlb[adi_osal_noos_sem.doj](program)'
+Eliminated object (0x1e,0x20) of size 2 bytes from 'libosal_noos.dlb[adi_osal_noos_sem.doj](program)'
+Eliminated object (_adi_osal_SemCreate, ._adi_osal_SemCreate.end) of size 86 bytes from 'libosal_noos.dlb[adi_osal_noos_sem.doj](program)'
+Eliminated object (0x76,0x78) of size 2 bytes from 'libosal_noos.dlb[adi_osal_noos_sem.doj](program)'
+Eliminated object (_adi_osal_SemDestroy, ._adi_osal_SemDestroy.end) of size 56 bytes from 'libosal_noos.dlb[adi_osal_noos_sem.doj](program)'
+Eliminated object (.SWITCH.0, .SWITCH.0.end) of size 16 bytes from 'libssl.dlb[adi_pwr.doj](constdata)'
+Eliminated object (_adi_pwr_RemoveCallback, ._adi_pwr_RemoveCallback.end) of size 56 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_InstallCallback, ._adi_pwr_InstallCallback.end) of size 82 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_NotifyListeners, ._NotifyListeners.end) of size 68 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_GetPowerMode, ._GetPowerMode.end) of size 156 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_SetPllControlRegister, ._SetPllControlRegister.end) of size 62 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (0x26e,0x270) of size 2 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (0x3ea,0x3ec) of size 2 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_WaitForLock, ._WaitForLock.end) of size 76 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetFreq, ._adi_pwr_SetFreq.end) of size 792 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetCoreFreq, ._adi_pwr_GetCoreFreq.end) of size 44 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetPowerMode, ._adi_pwr_GetPowerMode.end) of size 30 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetClkControlRegister, ._adi_pwr_GetClkControlRegister.end) of size 42 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetClkControlRegister, ._adi_pwr_SetClkControlRegister.end) of size 82 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetPllControlRegister, ._adi_pwr_GetPllControlRegister.end) of size 58 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetPllControlRegister, ._adi_pwr_SetPllControlRegister.end) of size 36 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetClkDivideRegister, ._adi_pwr_GetClkDivideRegister.end) of size 42 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (0x8e2,0x8e4) of size 2 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetClkDivideRegister, ._adi_pwr_SetClkDivideRegister.end) of size 88 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetDDRClkFreq, ._adi_pwr_GetDDRClkFreq.end) of size 44 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetOutClkFreq, ._adi_pwr_GetOutClkFreq.end) of size 44 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetClkOutSelectRegister, ._adi_pwr_SetClkOutSelectRegister.end) of size 60 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetClkStatusRegister, ._adi_pwr_GetClkStatusRegister.end) of size 42 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_GetDpmStatusRegister, ._adi_pwr_GetDpmStatusRegister.end) of size 38 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetDpmControlRegister, ._adi_pwr_SetDpmControlRegister.end) of size 82 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_SetPowerMode, ._adi_pwr_SetPowerMode.end) of size 460 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (0xc3e,0xc40) of size 2 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_pwr_EnableWakeupSignal, ._adi_pwr_EnableWakeupSignal.end) of size 84 bytes from 'libssl.dlb[adi_pwr.doj](program)'
+Eliminated object (_adi_tmr_GetPeriod, ._adi_tmr_GetPeriod.end) of size 14 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_GetDelay, ._adi_tmr_GetDelay.end) of size 14 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_GetCount, ._adi_tmr_GetCount.end) of size 14 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableStatusInt, ._adi_tmr_EnableStatusInt.end) of size 64 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableDataInt, ._adi_tmr_EnableDataInt.end) of size 64 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableTriggerOut, ._adi_tmr_EnableTriggerOut.end) of size 58 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableTriggerIn, ._adi_tmr_EnableTriggerIn.end) of size 58 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableTriggerModeToggle, ._adi_tmr_EnableTriggerModeToggle.end) of size 36 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetTrigSlaveMode, ._adi_tmr_SetTrigSlaveMode.end) of size 40 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableGracefulStop, ._adi_tmr_EnableGracefulStop.end) of size 38 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x264,0x268) of size 4 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_BCastDelay, ._adi_tmr_BCastDelay.end) of size 12 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x274,0x278) of size 4 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_BCastWidth, ._adi_tmr_BCastWidth.end) of size 12 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x284,0x288) of size 4 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_BCastPeriod, ._adi_tmr_BCastPeriod.end) of size 12 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetDelay, ._adi_tmr_SetDelay.end) of size 10 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetWidth, ._adi_tmr_SetWidth.end) of size 10 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetPeriod, ._adi_tmr_SetPeriod.end) of size 10 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetEmuRun, ._adi_tmr_SetEmuRun.end) of size 36 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_EnableBroadcast, ._adi_tmr_EnableBroadcast.end) of size 38 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetPulsePolarity, ._adi_tmr_SetPulsePolarity.end) of size 36 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetPeriodWindow, ._adi_tmr_SetPeriodWindow.end) of size 14 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_SetWidthWindow, ._adi_tmr_SetWidthWindow.end) of size 14 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x3c2,0x3c4) of size 2 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x462,0x464) of size 2 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (0x58a,0x58c) of size 2 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_tmr_GroupEnable, ._adi_tmr_GroupEnable.end) of size 18 bytes from 'libssl.dlb[adi_tmr.doj](program)'
+Eliminated object (_adi_sec_SetCOPPeriod, ._adi_sec_SetCOPPeriod.end) of size 12 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetSysResetDelay, ._adi_sec_SetSysResetDelay.end) of size 12 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetFaultDelay, ._adi_sec_SetFaultDelay.end) of size 12 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SelectTriggerEvent, ._adi_sec_SelectTriggerEvent.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_ClearFault, ._adi_sec_ClearFault.end) of size 20 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_GetFaultID, ._adi_sec_GetFaultID.end) of size 16 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableCOPMode, ._adi_sec_EnableCOPMode.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableFaultInput, ._adi_sec_EnableFaultInput.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableSystemReset, ._adi_sec_EnableSystemReset.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableTriggerOutput, ._adi_sec_EnableTriggerOutput.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableFaultOutput, ._adi_sec_EnableFaultOutput.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableSFI, ._adi_sec_EnableSFI.end) of size 30 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetPriorityLevels, ._adi_sec_SetPriorityLevels.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetUnGroupedMask, ._adi_sec_SetUnGroupedMask.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetGroupMask, ._adi_sec_SetGroupMask.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetPriorityMask, ._adi_sec_SetPriorityMask.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_ClearWFIStatus, ._adi_sec_ClearWFIStatus.end) of size 24 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_GetWFIStatus, ._adi_sec_GetWFIStatus.end) of size 36 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_WaitForIdle, ._adi_sec_WaitForIdle.end) of size 24 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_GetSIDChannelID, ._adi_sec_GetSIDChannelID.end) of size 36 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetCoreID, ._adi_sec_SetCoreID.end) of size 48 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetSIDGrouping, ._adi_sec_SetSIDGrouping.end) of size 48 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_SetPriority, ._adi_sec_SetPriority.end) of size 44 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableError, ._adi_sec_EnableError.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableEdgeSense, ._adi_sec_EnableEdgeSense.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_EnableFault, ._adi_sec_EnableFault.end) of size 32 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (0x3d6,0x3d8) of size 2 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_Raise, ._adi_sec_Raise.end) of size 12 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_GetAddrError, ._adi_sec_GetAddrError.end) of size 50 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_GetLockWriteError, ._adi_sec_GetLockWriteError.end) of size 50 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (0x5a2,0x5a8) of size 6 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (0x662,0x664) of size 2 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (_adi_sec_RegisterErrorHandler, ._adi_sec_RegisterErrorHandler.end) of size 56 bytes from 'libssl.dlb[adi_sec.doj](program)'
+Eliminated object (__Processor_cycles_per_sec, .__Processor_cycles_per_sec.end) of size 4 bytes from 'libc.dlb[proccycles.doj](data1)'
+Eliminated object (_register_handler, ._register_handler.end) of size 16 bytes from 'libsmall.dlb[reghdlr_s.doj](program)'
+Eliminated object (0x132,0x134) of size 2 bytes from 'libosal_noos.dlb[adi_osal_arch_c.doj](program)'
+Eliminated object (__adi_osal_MemAlloc, .__adi_osal_MemAlloc.end) of size 72 bytes from 'libosal_noos.dlb[adi_osal_arch_c.doj](program)'
+Eliminated object (__adi_osal_MemFree, .__adi_osal_MemFree.end) of size 24 bytes from 'libosal_noos.dlb[adi_osal_arch_c.doj](program)'
+Eliminated object (0x226,0x228) of size 2 bytes from 'libosal_noos.dlb[adi_osal_arch_c.doj](program)'
+Eliminated object (_fputc, ._fputc.end) of size 24 bytes from 'libio.dlb[fputc.doj](program)'
+Eliminated object (__heap_space_unused, .__heap_space_unused.end) of size 90 bytes from 'libc.dlb[heapinfo.doj](program)'
+Eliminated object (__space_unused, .__space_unused.end) of size 16 bytes from 'libc.dlb[heapinfo.doj](program)'
+Eliminated object (__heap_peak_size, .__heap_peak_size.end) of size 64 bytes from 'libc.dlb[heapinfo.doj](program)'
+Eliminated object (__peak_size, .__peak_size.end) of size 16 bytes from 'libc.dlb[heapinfo.doj](program)'
+Eliminated object (__Sbrk, .__Sbrk.end) of size 18 bytes from 'libc.dlb[_Sbrk.doj](program)'
+Eliminated object (__heap_lookup, .__heap_lookup.end) of size 68 bytes from 'libc.dlb[heaplookup.doj](program)'
+]]></EXTENDED_INFO>
+</MSG>
+</DOCUMENT>

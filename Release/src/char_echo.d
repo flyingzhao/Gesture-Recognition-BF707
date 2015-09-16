@@ -1,0 +1,46 @@
+src/char_echo.doj: ../src/char_echo.c
+src/char_echo.doj: ../src/char_echo.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/blackfin.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/platform.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/_adi_platform.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/cdefBF707.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/cdefBF707.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/stdint.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/yvals.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/defBF707.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/defBF707.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/defBF70x_id_macros.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/ccblkfn.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/stdlib.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/stdlib_bf.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/builtins.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/builtins_support.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/builtins.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/builtins_support.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/fract_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/fr2x16_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/r2x16_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/raw_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/i2x16_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/complex_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/anomaly_macros_rtl.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/mc_typedef.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/stdio.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/int/adi_int.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/stdbool.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/int/adi_int_id.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/interrupt.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/exception.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/sys/anomaly_macros_rtl.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/int/adi_sec.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/drivers/uart/adi_uart.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/drivers/uart/adi_uart_bf60x.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/dma/adi_dma.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/dma/adi_mdma_bf60x.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/dma/adi_mdma_streams_bf70x.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/dma/adi_pdma_bf60x.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/dma/adi_pdma_channels_bf70x.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/pwr/adi_pwr.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/pwr/adi_pwr_v2.h
+src/char_echo.doj: G:/Program_Files/Analog\ Devices/CrossCore\ Embedded\ Studio\ 1.1.1/Blackfin/include/services/pwr/adi_pwr_bf70x.h
+src/char_echo.doj: ../system/adi_initialize.h

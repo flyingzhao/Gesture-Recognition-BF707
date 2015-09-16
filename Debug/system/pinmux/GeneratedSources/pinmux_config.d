@@ -1,0 +1,25 @@
+system/pinmux/GeneratedSources/pinmux_config.doj: ../system/pinmux/GeneratedSources/pinmux_config.c
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/platform.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/_adi_platform.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/cdefBF707.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/cdefBF707.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/stdint.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/yvals.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/defBF707.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/defBF707.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/defBF70x_id_macros.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/ccblkfn.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/stdlib.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/stdlib_bf.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/builtins.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/builtins_support.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/builtins.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/builtins_support.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/fract_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/fr2x16_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/r2x16_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/raw_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/i2x16_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/complex_typedef.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/anomaly_macros_rtl.h
+system/pinmux/GeneratedSources/pinmux_config.doj: C:/Program\ Files/CCES/Blackfin/include/sys/mc_typedef.h
